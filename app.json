@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "currencynow-bareflow",
+    "slug": "currencynow-bareflow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "currencynow-bareflow"
+}
